@@ -5,4 +5,4 @@
 [AIML LAB4](https://github.com/PranathiCheruvupalli/AIML-LAB-2-2/blob/main/AIML-LAB-04.ipynb)
 [AIML LAB5](https://github.com/PranathiCheruvupalli/AIML-LAB-2-2/blob/main/AIML-LAB-05.ipynb)
 [AIML LAB6](https://github.com/PranathiCheruvupalli/AIML-LAB-2-2/blob/main/AIML-LAB-06.ipynb)
-[AIML LAB7]()
+[AIML LAB7](https://github.com/PranathiCheruvupalli/AIML-LAB-2-2/blob/main/AIML-LAB-07.ipynb)
