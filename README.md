@@ -18,4 +18,4 @@
 
 [AIML LAB9](https://github.com/PranathiCheruvupalli/AIML-LAB-2-2/blob/main/AIML-LAB-09.ipynb)
 
-
+[AIML LAB10](https://github.com/PranathiCheruvupalli/AIML-LAB-2-2/blob/main/AIML-LAB-10.ipynb)
