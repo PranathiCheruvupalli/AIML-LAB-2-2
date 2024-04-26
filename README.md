@@ -16,4 +16,6 @@
 
 [AIML LAB8](https://github.com/PranathiCheruvupalli/AIML-LAB-2-2/blob/main/AIML-LAB-08.ipynb)
 
+[AIML LAB9](https://github.com/PranathiCheruvupalli/AIML-LAB-2-2/blob/main/AIML-LAB-09.ipynb)
+
 
